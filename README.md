@@ -7,7 +7,7 @@
 - ⚡ Fun fact **I am funny😅**
 
 
-<h3 align="left">Langages et Outils :</h3>
+<h3 align="left">My Skills  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D181019263W4796H10000/views/1,width=378,height=378,appearanceId=839,backgroundColor=F2F2F2/programmeur-informatique-en-html-css-et-php.jpg)" alt="CSS3" width="40" height="40"/>:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
