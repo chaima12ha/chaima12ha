@@ -9,7 +9,7 @@
 
 <h3 align="left">Langages et Outils :</h3>
 <p align="left">
-    <a href="URL_VERS_SYMFONY" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/symfony/" target="_blank" rel="noreferrer">
         <img src="URL_ICONE_SYMFONY" alt="Symfony" width="40" height="40"/>
     </a>
     <a href="URL_VERS_PHP" target="_blank" rel="noreferrer">
