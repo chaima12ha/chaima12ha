@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋  Chaima hajji </h1>
-<h3 align="center">passionate Software Engineer </h3>
+<h3 align="center"> Software Engineer </h3>
 
 
 
@@ -13,7 +13,7 @@
         <img src="URL_ICONE_SYMFONY" alt="Symfony" width="40" height="40"/>
     </a>
     <a href="URL_VERS_PHP" target="_blank" rel="noreferrer">
-        <img src="URL_ICONE_PHP" alt="PHP" width="40" height="40"/>
+      
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
