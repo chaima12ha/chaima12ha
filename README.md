@@ -9,12 +9,6 @@
 
 <h3 align="left">Langages et Outils :</h3>
 <p align="left">
-    <a href="https://www.w3schools.com/symfony/" target="_blank" rel="noreferrer">
-        <img src="URL_ICONE_SYMFONY" alt="Symfony" width="40" height="40"/>
-    </a>
-    <a href="URL_VERS_PHP" target="_blank" rel="noreferrer">
-      
-    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     </a>
