@@ -7,14 +7,13 @@
 - ⚡ Fun fact **I am funny😅**
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Langages et Outils :</h3>
 <p align="left">
-    <a href="URL_DE_SYMFONY" target="_blank" rel="noreferrer">
-        <img src="URL_DE_SYMFONY" alt="Symfony" width="40" height="40"/>
+    <a href="URL_VERS_SYMFONY" target="_blank" rel="noreferrer">
+        <img src="URL_ICONE_SYMFONY" alt="Symfony" width="40" height="40"/>
     </a>
-    <a href="URL_DE_PHP" target="_blank" rel="noreferrer">
-        <img src="URL_DE_PHP" alt="PHP" width="40" height="40"/>
+    <a href="URL_VERS_PHP" target="_blank" rel="noreferrer">
+        <img src="URL_ICONE_PHP" alt="PHP" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
